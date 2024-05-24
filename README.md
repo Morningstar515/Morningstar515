@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Morningstar515
-- 👀 I’m interested in ... nerd things with ma nerd friends
-- 🌱 I’m currently learning ...Java, and JS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tyler!
+- 👀 I’m looking to expand my programming abilities through web development and embedded systems
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me ...
 
 <!---
