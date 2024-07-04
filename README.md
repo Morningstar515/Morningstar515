@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler!
 - 👀 I’m looking to expand my programming abilities through web development and embedded systems
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently looking to expand my knowledge of Spring-Boot
 
 
 <!---
